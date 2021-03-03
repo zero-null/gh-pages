@@ -1,0 +1,725 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>探索</title>
+    <link href="https://zero-null.github.io/gh-pages/feed.xml" rel="self" />
+    <link href="https://zero-null.github.io/gh-pages" />
+    <updated>2021-03-03T14:04:26+08:00</updated>
+    <author>
+        <name>名无</name>
+    </author>
+    <id>https://zero-null.github.io/gh-pages</id>
+
+    <entry>
+        <title>经济</title>
+        <author>
+            <name>名无</name>
+        </author>
+        <link href="https://zero-null.github.io/gh-pages/jing-jijj.html"/>
+        <id>https://zero-null.github.io/gh-pages/jing-jijj.html</id>
+
+        <updated>2021-03-03T14:04:26+08:00</updated>
+            <summary>
+                <![CDATA[
+                    经济活动初级活动提取原料 农业 渔业 林业 采矿业和采石业 原料加工 服务 第四产业经济制度自给经济商品经济计划经济
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h2 class="align-center">经济活动</h2>
+<h3><span style="text-decoration: underline;">初级活动</span></h3>
+<p class="msg msg--info">提取原料</p>
+<p>农业</p>
+<p>渔业</p>
+<p>林业</p>
+<p>采矿业和采石业</p>
+<h3><span style="text-decoration: underline;">第二产业</span></h3>
+<p class="msg msg--info">原料加工</p>
+<p> </p>
+<h3><span style="text-decoration: underline;">第三产业</span></h3>
+<p class="msg msg--info">服务</p>
+<p> </p>
+<h3><span style="text-decoration: underline;">第四产业</span></h3>
+<h2 class="align-center">经济制度</h2>
+<h3><span style="text-decoration: underline;">自给经济</span></h3>
+<h3><span style="text-decoration: underline;">商品经济</span></h3>
+<h3><span style="text-decoration: underline;">计划经济</span></h3>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>教育</title>
+        <author>
+            <name>名无</name>
+        </author>
+        <link href="https://zero-null.github.io/gh-pages/jiao-yujiaoyu.html"/>
+        <id>https://zero-null.github.io/gh-pages/jiao-yujiaoyu.html</id>
+
+        <updated>2021-02-23T20:01:59+08:00</updated>
+            <summary>
+                <![CDATA[
+                    阶段理论
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h2 class="align-center">阶段</h2>
+<h2 class="align-center">理论</h2>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>军事</title>
+        <author>
+            <name>名无</name>
+        </author>
+        <link href="https://zero-null.github.io/gh-pages/jun-shi.html"/>
+        <id>https://zero-null.github.io/gh-pages/jun-shi.html</id>
+
+        <updated>2021-02-23T19:59:58+08:00</updated>
+            <summary>
+                <![CDATA[
+                    军事技能的使用军事组织 部队结构 军事教育与训练 战略与准则 地理 情报 后勤 军备军事与社会
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h2 class="align-center">军事技能的使用</h2>
+<p>军事组织</p>
+<p>部队结构</p>
+<p>军事教育与训练</p>
+<h2 class="align-center">概念与方法</h2>
+<p>战略与准则</p>
+<p>地理</p>
+<h2 class="align-center">系统</h2>
+<p>情报</p>
+<p>后勤</p>
+<p>军备</p>
+<h2 class="align-center">军事与社会</h2>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>法律</title>
+        <author>
+            <name>名无</name>
+        </author>
+        <link href="https://zero-null.github.io/gh-pages/fa-lu-fa-lu.html"/>
+        <id>https://zero-null.github.io/gh-pages/fa-lu-fa-lu.html</id>
+
+        <updated>2021-03-02T19:28:43+08:00</updated>
+            <summary>
+                <![CDATA[
+                    系统欧陆法系 英美法系 宗教法 司法机关 立法机关 行政机关 军队与警队 官僚制 法律工作者 公民社会 公法 私法
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h2 class="align-center">系统</h2>
+<p>欧陆法系</p>
+<p>英美法系</p>
+<p>宗教法</p>
+<h2 class="align-center">机构</h2>
+<p>司法机关</p>
+<p>立法机关</p>
+<p>行政机关</p>
+<p>军队与警队</p>
+<p>官僚制</p>
+<p>法律工作者</p>
+<p>公民社会</p>
+<h2 class="align-center">范畴</h2>
+<p>公法</p>
+<p>私法</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>政治</title>
+        <author>
+            <name>名无</name>
+        </author>
+        <link href="https://zero-null.github.io/gh-pages/zheng-zhizz.html"/>
+        <id>https://zero-null.github.io/gh-pages/zheng-zhizz.html</id>
+
+        <updated>2021-03-02T23:55:29+08:00</updated>
+            <summary>
+                <![CDATA[
+                    政治光谱左翼 中间 右翼 身份群体 国家机器政体 游群 部落 酋邦 主权国家 联盟 直接 代议 抽签 自由 委任 苏维埃民主 社会民主主义 极权民主 无支配体制 贵族政治 老人政治 工人政治 天才政治 窃盗统治&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div class="post__toc">
+<h3>Table of Contents</h3>
+<ul>
+<li><a href="#mcetoc_1evmekajfa">政治光谱</a></li>
+<li><a href="#mcetoc_1evmel7elf">国家机器</a></li>
+<li><a href="#mcetoc_1evd7k2p710h">政治系统</a>
+<ul>
+<li><a href="#mcetoc_1evoh2u2m25">分类</a>
+<ul>
+<li><a href="#mcetoc_1evoh2u2m26">非集中系统</a></li>
+<li><a href="#mcetoc_1evoh2u2m27">集中系统</a></li>
+<li><a href="#mcetoc_1evoh2u2m28">超国家主义</a></li>
+</ul>
+</li>
+<li><a href="#mcetoc_1evmekajfb">机构</a></li>
+<li><a href="#mcetoc_1evd7k2p710i">政府形式</a>
+<ul>
+<li><a href="#mcetoc_1evetp26115">权力结构</a></li>
+<li><a href="#mcetoc_1evd7k2p710j">权力来源</a></li>
+<li><a href="#mcetoc_1evd7k2p710l">权力意识形态</a></li>
+<li><a href="#mcetoc_1evf424ld2o">社会政治属性</a></li>
+</ul>
+</li>
+<li><a href="#mcetoc_1evd7k2p710o">政治失调</a></li>
+</ul>
+</li>
+<li><a href="#mcetoc_1evd7k2p710p">政治层级</a>
+<ul>
+<li><a href="#mcetoc_1evd7k2p710q">宏观</a></li>
+<li><a href="#mcetoc_1evd7k2p710r">中间</a></li>
+<li><a href="#mcetoc_1evd7k2p710s">个体</a></li>
+</ul>
+</li>
+<li><a href="#mcetoc_1evd7k2p810t">政治价值</a>
+<ul>
+<li><a href="#mcetoc_1evd7k2p810u">民主</a></li>
+<li><a href="#mcetoc_1evd7k2p810v">平等</a></li>
+<li><a href="#mcetoc_1evd7k2p8110">自由</a></li>
+</ul>
+</li>
+</ul>
+</div>
+<h2 id="mcetoc_1evmekajfa" class="align-center">政治光谱</h2>
+<table style="border-collapse: collapse; width: 100%; height: 240px;" border="1">
+<tbody>
+<tr style="height: 48px;">
+<td style="width: 50%; height: 48px;">左翼</td>
+<td style="width: 50%; height: 48px;"> </td>
+</tr>
+<tr style="height: 48px;">
+<td style="width: 50%; height: 48px;">中间</td>
+<td style="width: 50%; height: 48px;"> </td>
+</tr>
+<tr style="height: 48px;">
+<td style="width: 50%; height: 48px;">右翼</td>
+<td style="width: 50%; height: 48px;"> </td>
+</tr>
+<tr style="height: 48px;">
+<td style="width: 50%; height: 48px;">身份群体</td>
+<td style="width: 50%; height: 48px;"> </td>
+</tr>
+</tbody>
+</table>
+<h2 id="mcetoc_1evmel7elf" class="align-center">国家机器</h2>
+<p>政体</p>
+<p> </p>
+<h2 id="mcetoc_1evd7k2p710h" class="align-center">政治系统</h2>
+<h3 id="mcetoc_1evoh2u2m25"><span style="text-decoration: underline;">演化</span></h3>
+<h4 id="mcetoc_1evoh2u2m26">非集中系统</h4>
+<p>游群</p>
+<p>部落</p>
+<h4 id="mcetoc_1evoh2u2m27">集中系统</h4>
+<p>酋邦</p>
+<p>主权国家</p>
+<h4 id="mcetoc_1evoh2u2m28">超国家主义</h4>
+<p>联盟</p>
+<h3 id="mcetoc_1evmekajfb"><span style="text-decoration: underline;">机构</span></h3>
+<table style="border-collapse: collapse; width: 100%; height: 192px;" border="1">
+<tbody>
+<tr style="height: 48px;">
+<td style="width: 33.3333%; height: 144px;" rowspan="3">政府</td>
+<td style="width: 33.3333%; height: 48px;">立法</td>
+</tr>
+<tr style="height: 48px;">
+<td style="width: 33.3333%; height: 48px;">行政</td>
+</tr>
+<tr style="height: 48px;">
+<td style="width: 33.3333%; height: 48px;">司法</td>
+</tr>
+<tr style="height: 48px;">
+<td style="width: 33.3333%; height: 48px;">政党</td>
+<td style="width: 33.3333%; height: 48px;"> </td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">利益团体</td>
+<td style="width: 33.3333%;"> </td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">人民</td>
+<td style="width: 33.3333%;"> </td>
+</tr>
+</tbody>
+</table>
+<h3 id="mcetoc_1evd7k2p710i"><span style="text-decoration: underline;">政府形式</span></h3>
+<h4 id="mcetoc_1evetp26115">权力结构</h4>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;">无政府</td>
+<td style="width: 50%;"> </td>
+</tr>
+<tr>
+<td style="width: 50%;">邦联</td>
+<td style="width: 50%;"> </td>
+</tr>
+<tr>
+<td style="width: 50%;">单一</td>
+<td style="width: 50%;"> </td>
+</tr>
+<tr>
+<td style="width: 50%;">联邦</td>
+<td style="width: 50%;"> </td>
+</tr>
+</tbody>
+</table>
+<h4 id="mcetoc_1evd7k2p710j">权力分配</h4>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;">民主</td>
+<td style="width: 50%;">
+<p>直接</p>
+<p>代议</p>
+<p>抽签</p>
+<p>自由</p>
+<p>委任</p>
+<p>苏维埃民主</p>
+<p>社会民主主义</p>
+<p>极权民主</p>
+</td>
+</tr>
+<tr>
+<td style="width: 50%;">寡头</td>
+<td style="width: 50%;">
+<p>无支配体制</p>
+<p>贵族政治</p>
+<p>老人政治</p>
+<p>工人政治</p>
+<p>天才政治</p>
+<p>窃盗统治</p>
+<p>精英政治</p>
+<p>智主政治</p>
+<p>金权政治</p>
+<p>军政</p>
+<p>专家政治</p>
+<p>神权政治</p>
+<p>勋阀政治</p>
+<p>党派政治</p>
+<p>恶人政治</p>
+<p>判官政治</p>
+<p>网络政治</p>
+<p>强权即公理</p>
+</td>
+</tr>
+<tr>
+<td style="width: 50%;">独裁</td>
+<td style="width: 50%;">
+<p>独裁政体（如军事独裁）</p>
+<p>君主专制</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4 id="mcetoc_1evd7k2p710l">权力意识形态</h4>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;"> </td>
+<td style="width: 50%;"> </td>
+</tr>
+<tr>
+<td style="width: 50%;">宪法</td>
+<td style="width: 50%;"> </td>
+</tr>
+<tr>
+<td style="width: 50%;">君主</td>
+<td style="width: 50%;">
+<p>君主专制</p>
+<p>君主立宪</p>
+<p>选举君主</p>
+<p>加冕共和国</p>
+</td>
+</tr>
+<tr>
+<td style="width: 50%;">共和</td>
+<td style="width: 50%;">
+<p>民主共和</p>
+<p>联邦共和</p>
+<p>伊斯兰共和</p>
+<p>议会共和</p>
+<p>总统制</p>
+<p>人民共和</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4 id="mcetoc_1evf424ld2o">社会政治属性</h4>
+<table style="border-collapse: collapse; width: 100%; height: 288px;" border="1"><caption>社会经济属性</caption>
+<tbody>
+<tr style="height: 48px;">
+<td style="width: 33.3333%; height: 48px;">无政府主义</td>
+<td style="width: 33.3333%; height: 48px;"> </td>
+<td style="width: 33.3333%; height: 48px;"> </td>
+</tr>
+<tr style="height: 48px;">
+<td style="width: 33.3333%; height: 48px;">资本主义</td>
+<td style="width: 33.3333%; height: 48px;"> </td>
+<td style="width: 33.3333%; height: 48px;"> </td>
+</tr>
+<tr style="height: 48px;">
+<td style="width: 33.3333%; height: 48px;">殖民主义</td>
+<td style="width: 33.3333%; height: 48px;"> </td>
+<td style="width: 33.3333%; height: 48px;"> </td>
+</tr>
+<tr style="height: 48px;">
+<td style="width: 33.3333%; height: 48px;">共产主义</td>
+<td style="width: 33.3333%; height: 48px;"> </td>
+<td style="width: 33.3333%; height: 48px;"> </td>
+</tr>
+<tr style="height: 48px;">
+<td style="width: 33.3333%; height: 48px;">专制主义</td>
+<td style="width: 33.3333%; height: 48px;"> </td>
+<td style="width: 33.3333%; height: 48px;"> </td>
+</tr>
+<tr style="height: 48px;">
+<td style="width: 33.3333%; height: 48px;">封建制度（欧洲）</td>
+<td style="width: 33.3333%; height: 48px;"> </td>
+<td style="width: 33.3333%; height: 48px;"> </td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">守夜人国家</td>
+<td style="width: 33.3333%;"> </td>
+<td style="width: 33.3333%;"> </td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">君主主义</td>
+<td style="width: 33.3333%;"> </td>
+<td style="width: 33.3333%;"> </td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">共和主义</td>
+<td style="width: 33.3333%;"> </td>
+<td style="width: 33.3333%;"> </td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">社会主义</td>
+<td style="width: 33.3333%;"> </td>
+<td style="width: 33.3333%;"> </td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">极权主义</td>
+<td style="width: 33.3333%;"> </td>
+<td style="width: 33.3333%;"> </td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">分配主义</td>
+<td style="width: 33.3333%;"> </td>
+<td style="width: 33.3333%;"> </td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">部落主义</td>
+<td style="width: 33.3333%;"> </td>
+<td style="width: 33.3333%;"> </td>
+</tr>
+</tbody>
+</table>
+<table style="border-collapse: collapse; width: 100%;" border="1"><caption>地理文化属性</caption>
+<tbody>
+<tr>
+<td style="width: 50%;">中央政府</td>
+<td style="width: 50%;"> </td>
+</tr>
+<tr>
+<td style="width: 50%;">城邦</td>
+<td style="width: 50%;"> </td>
+</tr>
+<tr>
+<td style="width: 50%;">公社</td>
+<td style="width: 50%;"> </td>
+</tr>
+<tr>
+<td style="width: 50%;">国际组织</td>
+<td style="width: 50%;"> </td>
+</tr>
+<tr>
+<td style="width: 50%;">世界政府</td>
+<td style="width: 50%;"> </td>
+</tr>
+</tbody>
+</table>
+<h3 id="mcetoc_1evd7k2p710o"><span style="text-decoration: underline;">政治失调</span></h3>
+<h2 id="mcetoc_1evd7k2p710p" class="align-center">政治层级</h2>
+<h3 id="mcetoc_1evd7k2p710q"><span style="text-decoration: underline;">宏观</span></h3>
+<ul>
+<li>影响整个政治系统的政治问题（如民族国家）</li>
+<li>政治系统间的相互作用（如国际关系）</li>
+</ul>
+<h3 id="mcetoc_1evd7k2p710r"><span style="text-decoration: underline;">中间</span></h3>
+<p>政党、政治运动</p>
+<h3 id="mcetoc_1evd7k2p710s"><span style="text-decoration: underline;">个体</span></h3>
+<h2 id="mcetoc_1evd7k2p810t" class="align-center">政治价值</h2>
+<h3 id="mcetoc_1evd7k2p810u"><span style="text-decoration: underline;">民主</span></h3>
+<h3 id="mcetoc_1evd7k2p810v"><span style="text-decoration: underline;">平等</span></h3>
+<h3 id="mcetoc_1evd7k2p8110"><span style="text-decoration: underline;">自由</span></h3>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>恒星</title>
+        <author>
+            <name>名无</name>
+        </author>
+        <link href="https://zero-null.github.io/gh-pages/heng-xinghx.html"/>
+        <id>https://zero-null.github.io/gh-pages/heng-xinghx.html</id>
+
+        <updated>2021-02-23T18:55:18+08:00</updated>
+            <summary>
+                <![CDATA[
+                    特征年龄化学组成直径动能磁场质量自转温度 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h2 class="align-center">特征</h2>
+<h3><span style="text-decoration: underline;">年龄</span></h3>
+<h3><span style="text-decoration: underline;">化学组成</span></h3>
+<h3><span style="text-decoration: underline;">直径</span></h3>
+<h3><span style="text-decoration: underline;">动能</span></h3>
+<h3><span style="text-decoration: underline;">磁场</span></h3>
+<h3><span style="text-decoration: underline;">质量</span></h3>
+<h3><span style="text-decoration: underline;">自转</span></h3>
+<h3><span style="text-decoration: underline;">温度</span></h3>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>化学</title>
+        <author>
+            <name>名无</name>
+        </author>
+        <link href="https://zero-null.github.io/gh-pages/hua-xue-hua-xue.html"/>
+        <id>https://zero-null.github.io/gh-pages/hua-xue-hua-xue.html</id>
+
+        <updated>2021-02-23T18:49:48+08:00</updated>
+            <summary>
+                <![CDATA[
+                    物质原子元素化合物分子物质与混合物摩尔与物质量相键能量反应离子与盐酸碱度氧化还原反应化学平衡化学定律 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h2 class="align-center">物质</h2>
+<h3><span style="text-decoration: underline;">原子</span></h3>
+<h3><span style="text-decoration: underline;">元素</span></h3>
+<h3><span style="text-decoration: underline;">化合物</span></h3>
+<h3><span style="text-decoration: underline;">分子</span></h3>
+<h3><span style="text-decoration: underline;">物质与混合物</span></h3>
+<h3><span style="text-decoration: underline;">摩尔与物质量</span></h3>
+<h2 class="align-center">相</h2>
+<h2 class="align-center">键</h2>
+<h2 class="align-center">能量</h2>
+<h2 class="align-center">反应</h2>
+<h2 class="align-center">离子与盐</h2>
+<h2 class="align-center">酸碱度</h2>
+<h2 class="align-center">氧化还原反应</h2>
+<h2 class="align-center">化学平衡</h2>
+<h2 class="align-center">化学定律</h2>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>星系</title>
+        <author>
+            <name>名无</name>
+        </author>
+        <link href="https://zero-null.github.io/gh-pages/xxxx.html"/>
+        <id>https://zero-null.github.io/gh-pages/xxxx.html</id>
+
+        <updated>2021-02-23T18:29:46+08:00</updated>
+            <summary>
+                <![CDATA[
+                    型态椭圆星系旋涡星系、棒旋星系其他特殊星系 透镜状星系 不规则星系 超稀疏星系矮星系其他类型相互作用星系星暴星系活动星系核亮红外星系属性磁场
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h2 class="align-center">型态</h2>
+<h3><span style="text-decoration: underline;">椭圆星系</span></h3>
+<h3><span style="text-decoration: underline;">旋涡星系、棒旋星系</span></h3>
+<h3><span style="text-decoration: underline;">其他</span></h3>
+<p>特殊星系</p>
+<p>透镜状星系</p>
+<p>不规则星系</p>
+<p>超稀疏星系</p>
+<h3><span style="text-decoration: underline;">矮星系</span></h3>
+<h2 class="align-center">其他类型</h2>
+<h3><span style="text-decoration: underline;">相互作用星系</span></h3>
+<h3><span style="text-decoration: underline;">星暴星系</span></h3>
+<h3><span style="text-decoration: underline;">活动星系核</span></h3>
+<h3><span style="text-decoration: underline;">亮红外星系</span></h3>
+<h2 class="align-center">属性</h2>
+<h3><span style="text-decoration: underline;">磁场</span></h3>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>宇宙</title>
+        <author>
+            <name>名无</name>
+        </author>
+        <link href="https://zero-null.github.io/gh-pages/yu-zhouyz.html"/>
+        <id>https://zero-null.github.io/gh-pages/yu-zhouyz.html</id>
+
+        <updated>2021-02-20T23:26:54+08:00</updated>
+            <summary>
+                <![CDATA[
+                    特性尺寸与区域年龄与膨胀时间与空间形状构成暗物质暗能量普通物质 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h2 class="align-center">特性</h2>
+<h3><span style="text-decoration: underline;">尺寸与区域</span></h3>
+<h3><span style="text-decoration: underline;">年龄与膨胀</span></h3>
+<h3><span style="text-decoration: underline;">时间与空间</span></h3>
+<h3><span style="text-decoration: underline;">形状</span></h3>
+<h2 class="align-center">构成</h2>
+<h3><span style="text-decoration: underline;">暗物质</span></h3>
+<h3><span style="text-decoration: underline;">暗能量</span></h3>
+<h3><span style="text-decoration: underline;">普通物质</span></h3>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>地貌</title>
+        <author>
+            <name>名无</name>
+        </author>
+        <link href="https://zero-null.github.io/gh-pages/dilidili.html"/>
+        <id>https://zero-null.github.io/gh-pages/dilidili.html</id>
+
+        <updated>2021-02-22T01:54:08+08:00</updated>
+            <summary>
+                <![CDATA[
+                    板块大陆漂移泛大陆 火成岩 沉积岩 变质岩 离散 汇聚 转换 台地 flat 丘 山 山脉 高原 山脊 谷地 冰盖 平原 干草原 冻原 冲积扇&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h2 class="align-center">板块</h2>
+<h3><span style="text-decoration: underline;">大陆漂移</span></h3>
+<p>泛大陆</p>
+<p> </p>
+<h3><span style="text-decoration: underline;">构造物质</span></h3>
+<p>火成岩</p>
+<p>沉积岩</p>
+<p>变质岩</p>
+<h3><span style="text-decoration: underline;">边界</span></h3>
+<p>离散</p>
+<p>汇聚</p>
+<p>转换</p>
+<p> </p>
+<p> </p>
+<h2 class="align-center">山</h2>
+<p>台地</p>
+<p>flat</p>
+<p>丘</p>
+<p>山</p>
+<p>山脉</p>
+<p>高原</p>
+<p>山脊</p>
+<p>谷地</p>
+<h2 class="align-center">大陆平原</h2>
+<p>冰盖</p>
+<p>平原</p>
+<p>干草原</p>
+<p>冻原</p>
+<h2 class="align-center">河流</h2>
+<p>冲积扇</p>
+<p>滩</p>
+<p>峡谷</p>
+<p>洞穴</p>
+<p>水道</p>
+<p>悬崖</p>
+<p>河漫滩</p>
+<p>湖泊</p>
+<p>堤</p>
+<p>曲流</p>
+<p>绿洲</p>
+<p>池塘</p>
+<p>急流</p>
+<p>河流</p>
+<p>三角洲</p>
+<p>河口</p>
+<p>谷地</p>
+<p>海峡</p>
+<p>树沼</p>
+<p>瀑布</p>
+<h2 class="align-center">海岸</h2>
+<p>环礁</p>
+<p>海湾</p>
+<p>海岬</p>
+<p>水道</p>
+<p>岸</p>
+<p>大陆架</p>
+<p>珊瑚礁</p>
+<p>河口湾</p>
+<p>火山岛</p>
+<p>岛</p>
+<p>地峡</p>
+<p>泻湖</p>
+<p>洋中脊</p>
+<p>海沟</p>
+<p>海底山</p>
+<p>半岛</p>
+<h2 class="align-center">冰川</h2>
+<p>刃脊</p>
+<p>冰斗</p>
+<p>蛇形丘</p>
+<p>峡湾</p>
+<p>冰川</p>
+<p>冰原</p>
+<p>隧道谷</p>
+<h2 class="align-center">火山</h2>
+<p>破火山口</p>
+<p>火山口湖</p>
+<p>间歇泉</p>
+<p>火山岛</p>
+<p>洋中脊</p>
+<p>火山穹丘</p>
+<p>熔岩平原</p>
+<p>熔岩台地</p>
+<p>海底火山</p>
+<p>火山口</p>
+<p>火山栓</p>
+<p>火山</p>
+<p>围岩</p>
+<h2 class="align-center">风蚀</h2>
+<p>荒漠</p>
+<p>旱湖</p>
+<p>沙丘</p>
+<p>冻原</p>
+<p>sandhill</p>
+<h2 class="align-center">人工</h2>
+<p>人工岛</p>
+<p>人工鱼礁</p>
+<p>桥</p>
+<p>建筑物</p>
+<p>运河</p>
+<p>水坝</p>
+<p>沟渠</p>
+<p>填海</p>
+<p>堤</p>
+<p>围垦</p>
+<p>水库</p>
+<p>沙石场</p>
+<p>道路</p>
+<p>隧道</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
